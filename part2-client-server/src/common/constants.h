@@ -1,0 +1,7 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define MAX_STRING_SIZE 256
+#define MAX_PIPE_PATH_LENGTH 40
+
+#endif
